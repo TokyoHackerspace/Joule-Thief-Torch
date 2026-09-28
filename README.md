@@ -1,5 +1,7 @@
 # Joule Thief
 
+**日本語版はこちらをご覧ください:** [README.ja.md](./README.ja.md)
+
 Tired of throwing out all those half dead AA and AAA cells?
 
 Wish you could suck every joule out of them for something (marginally) useful?
@@ -33,7 +35,7 @@ Open the package and set out the parts as we identify them one by one.
 
 ## Soldering
 
-I have no specific advice about soldering for you here. If you are assembling this as your first soldering project, Tokyo HackerSpace members are happy to guide you through it. Otherwise, I would refer you to the excellent comic guide to ["Soldering is easy" by Mitch Altman](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf).
+I have no specific advice about soldering for you here. If you are assembling this as your first soldering project, Tokyo Hackerspace members are happy to guide you through it. (Visiting our OpenHouse is also welcome! For more details, please see our [website](https://www.tokyohackerspace.jp/).) Otherwise, I would refer you to the excellent comic guide to ["Soldering is easy" by Mitch Altman](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf).
 
 ## Assembling Step by Step
 
@@ -88,7 +90,6 @@ It is easiest to carefully push one wire through the middle, then pulling it thr
 Straighten the wire as best you can. Find the center, and cut the wire in half.  
 Look carefully at the ends of the wires. One side is shiny because the enamel coating that forms an insulation layer had already been removed from the wire. The other side remains orange.
 
-  
 Place the two wires side by side. If necessary, flip one wire, such that on each side you have one shiny end and one enameled end. We will use this difference to help us keep the windings straight, and make sure we solder the wires into the correct locations on the PCB.
 
 ![JT coil 4](./images/JT-coil-4.jpg)
