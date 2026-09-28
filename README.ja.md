@@ -35,7 +35,7 @@ Joule Thief回路は、使い捨て電池に残っているエネルギーをほ
 
 ## はんだ付け
 
-ここでは、はんだ付けそのものについて特別な説明は行いません。これが初めてのはんだ付け工作なら、Tokyo Hackerspaceのメンバーが喜んでお手伝いします（OpenHouseにお越しいただくことも大歓迎です。詳細は[ホームページ](https://www.tokyohackerspace.jp/)をご覧ください。）。そうでなければ、Mitch Altmanによる素晴らしい漫画形式のガイド ["Soldering is easy"](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) をおすすめします。
+ここでは、はんだ付けそのものについて特別な説明は行いません。これが初めてのはんだ付け工作なら、Tokyo Hackerspaceのメンバーが喜んでお手伝いします（OpenHouseにお越しいただくことも大歓迎です。詳細は[ホームページ](https://www.tokyohackerspace.jp/)をご覧ください。）。そうでなければ、Mitch Altmanによる素晴らしい漫画形式のガイド ["Soldering is easy"](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf) （訳注：日本語版があります。[マンガ"Soldering Is Easy"を翻訳してみた。 - ytsuboi's blog](https://www.ytsuboi.org/wp/archives/1976)もご覧ください。）をおすすめします。
 
 ## 組み立て手順
 
